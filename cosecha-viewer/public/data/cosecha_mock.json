@@ -1,0 +1,52 @@
+[
+  {
+    "rut": "11.111.111-1",
+    "nombre": "JUAN PEREZ DEMO",
+    "grupo": "GRUPO A",
+    "dias_trabajados": 3,
+    "total_pesajes": 420,
+    "pesajes": {
+      "2025-12-04": [120, 80],
+      "2025-12-05": [90, 60],
+      "2025-12-06": [70]
+    }
+  },
+  {
+    "rut": "22.222.222-2",
+    "nombre": "MARIA GONZALEZ DEMO",
+    "grupo": "GRUPO B",
+    "dias_trabajados": 4,
+    "total_pesajes": 510,
+    "pesajes": {
+      "2025-12-04": [130],
+      "2025-12-05": [120, 80],
+      "2025-12-07": [100],
+      "2025-12-08": [80]
+    }
+  },
+  {
+    "rut": "33.333.333-3",
+    "nombre": "PEDRO ROJAS DEMO",
+    "grupo": "GRUPO A",
+    "dias_trabajados": 2,
+    "total_pesajes": 260,
+    "pesajes": {
+      "2025-12-06": [140],
+      "2025-12-07": [120]
+    }
+  },
+  {
+    "rut": "44.444.444-4",
+    "nombre": "ANA LOPEZ DEMO",
+    "grupo": "GRUPO C",
+    "dias_trabajados": 5,
+    "total_pesajes": 610,
+    "pesajes": {
+      "2025-12-04": [110],
+      "2025-12-05": [120],
+      "2025-12-06": [130],
+      "2025-12-07": [140],
+      "2025-12-08": [110]
+    }
+  }
+]
