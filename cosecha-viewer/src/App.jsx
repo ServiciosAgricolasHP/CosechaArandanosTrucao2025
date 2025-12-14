@@ -779,7 +779,7 @@ function exportJSON() {
             </div>
           </div>
           <a className="profile-link" href="https://www.instagram.com/is_serviciosagricola/" target="_blank" rel="noreferrer">
-            Hugo Paredes Carrasco
+             Agrofrutos SPA
           </a>
         </div>
       </div>
